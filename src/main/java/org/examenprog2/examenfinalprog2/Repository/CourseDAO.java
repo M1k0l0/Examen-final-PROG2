@@ -1,2 +1,4 @@
-package org.examenprog2.examenfinalprog2.Repository;public class CourseDAO {
+package org.examenprog2.examenfinalprog2.Repository;
+
+public class CourseDAO {
 }

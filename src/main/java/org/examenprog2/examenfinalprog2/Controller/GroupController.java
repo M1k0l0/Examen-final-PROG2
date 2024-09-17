@@ -1,2 +1,4 @@
-package org.examenprog2.examenfinalprog2.Controller;public class GroupController {
+package org.examenprog2.examenfinalprog2.Controller;
+
+public class GroupController {
 }

@@ -1,2 +1,14 @@
-package org.examenprog2.examenfinalprog2.Entity;public class Course {
+package org.examenprog2.examenfinalprog2.Entity;
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.Setter;
+
+@AllArgsConstructor
+@Setter
+@Getter
+public class Course {
+    private int id;
+    private String course_name;
+    private Teacher teacher;
 }
